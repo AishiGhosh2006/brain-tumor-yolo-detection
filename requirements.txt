@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+pandas
+scikit-learn
+matplotlib
+seaborn
+onnx
+onnxsim

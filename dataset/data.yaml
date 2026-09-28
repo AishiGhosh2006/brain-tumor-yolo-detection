@@ -1,0 +1,8 @@
+path: C:/Users/aishi/Downloads/brain_yolo_project/brain_yolo_project/brain-tumor
+
+train: images/train
+val: images/val
+
+names:
+  0: negative
+  1: positive
