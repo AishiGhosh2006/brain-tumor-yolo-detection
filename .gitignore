@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.cache
+*.log
+.vscode/
+runs/
+outputs/
+raw_data/
+brain-tumor.zip
+yolo11s.pt
+yolo11n.pt
